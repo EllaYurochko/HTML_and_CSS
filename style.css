@@ -1,0 +1,43 @@
+body {
+    display: block;
+    width: 100%;
+    max-width: 500%;
+    margin: 20px auto;
+    min-height: 100vh;
+    background-color: rgb(197, 192, 185); 
+}
+
+h1 {
+  color: rgb(26, 18, 1);
+  padding: 15px;
+}
+.first {
+    color: rgb(18, 13, 15);
+    font-family: Geneva;
+    font-size: 20px;
+    padding: 15px;
+}
+.cat {
+   color: rgb(26, 18, 1);
+   padding: 15px; 
+}
+.cat_images {
+    border: 15px; 
+}
+.cat_button {
+   background-color: rgb(138, 147, 142);
+   color: rgb(26, 18, 1);
+   padding: 15px; 
+}
+.cat_button:hover {
+    background-color:rgb(157, 139, 100);
+    color: rgb(9, 9, 9);
+    cursor: pointer;
+    padding: 15px;
+}
+.second {
+    color: rgb(18, 13, 15);
+    font-family: Geneva;
+    font-size: 20px;
+    padding: 15px;
+}
